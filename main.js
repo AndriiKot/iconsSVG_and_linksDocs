@@ -11,12 +11,15 @@ console.log(str)       // "String 1" !!!
 str.toUpperCase()      // "STRING 1"
 console.log(str)       // "String 1" !!!
 
+
 let text = "   hElLO jS!    "
-text.length                                // 16
-text.trim()                               // "hELLO jS!"
-let str1 = text.toLowerCase().trim()     // "hello js!"
+text.length                                 // 16
+text.trim()   
+                                           // "hELLO jS!"
+let str1 = text.toLowerCase().trim()      // "hello js!"
 str1  = str1[0].toUpperCase() + str1.slice(1)
-console.log(str1)        // "Hello js!"
+
+console.log(str1)                      // "Hello js!"
 
 
 
