@@ -49,6 +49,9 @@
   "PyTorch": "https://pytorch.org/",
   "scikit-learn": "https://scikit-learn.org/stable/",
   "Hugging Face": "https://huggingface.co/",
-  "FastAPI": "https://fastapi.tiangolo.com/"
+  "FastAPI": "https://fastapi.tiangolo.com/",
+  "Jest": "https://jestjs.io/",
+  "GitHub": "https://docs.github.com/en",
+  "GitHub Actions": "https://docs.github.com/en/actions"
 }
 

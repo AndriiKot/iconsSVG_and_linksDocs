@@ -49,3 +49,6 @@ PyTorch: pytorch.svg
 scikit-learn: scikit-learn.svg
 "Hugging Face": huggingface.svg
 FastAPI: fastapi.svg
+Jest: jest.svg
+GitHub: github.svg
+"GitHub Actions": githubactions.svg
