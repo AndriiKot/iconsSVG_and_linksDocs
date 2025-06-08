@@ -51,6 +51,7 @@
   "Hugging Face": "huggingface.svg",
   "FastAPI": "fastapi.svg",
   "Jest": "jest.svg",
+  "Git": "git.svg",
   "GitHub": "github.svg",
   "GitHub Actions": "githubactions.svg",
   "Git hooks": "git-hooks.svg"
