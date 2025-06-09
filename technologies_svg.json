@@ -54,6 +54,7 @@
   "Git": "git.svg",
   "GitHub": "github.svg",
   "GitHub Actions": "githubactions.svg",
-  "Git hooks": "git-hooks.svg"
+  "Git hooks": "git-hooks.svg",
+  "Codecov": "codecov.svg"
 }
 
