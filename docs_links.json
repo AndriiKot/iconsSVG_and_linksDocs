@@ -57,6 +57,7 @@
   "Git hooks": "https://git-scm.com/docs/githooks",
   "Codecove": "https://about.codecov.io/",
   "SQL": "https://en.wikipedia.org/wiki/SQL",
-  "Ubuntu": "https://help.ubuntu.com/"
+  "Ubuntu": "https://help.ubuntu.com/",
+  "CodeQL": "https://codeql.github.com/docs/"
 }
 

@@ -57,6 +57,7 @@
   "Git hooks": "git-hooks.svg",
   "Codecov": "codecov.svg",
   "SQL": "sql.svg",
-  "Ubuntu": "ubuntu.svg"
+  "Ubuntu": "ubuntu.svg",
+  "CodeQL": "codeql.svg"
 }
 
