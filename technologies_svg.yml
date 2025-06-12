@@ -58,3 +58,7 @@ Codecov: codecov.svg
 SQL: sql.svg
 Ubuntu: ubuntu.svg
 CodeQL: codeql.svg
+UNIX: unix.svg
+Linux: linux.svg
+Bash: bash.svg
+Terminal: terminal.svg

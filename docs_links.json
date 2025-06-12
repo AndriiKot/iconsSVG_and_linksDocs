@@ -58,6 +58,10 @@
   "Codecove": "https://about.codecov.io/",
   "SQL": "https://en.wikipedia.org/wiki/SQL",
   "Ubuntu": "https://help.ubuntu.com/",
-  "CodeQL": "https://codeql.github.com/docs/"
+  "CodeQL": "https://codeql.github.com/docs/",
+  "UNIX": "https://www.doc.ic.ac.uk/~wjk/UnixIntro/",
+  "Linux": "https://docs.kernel.org/",
+  "Bash": "https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html",
+  "Terminal": "https://command-line-tutorial.readthedocs.io/introduction.html"
 }
 
